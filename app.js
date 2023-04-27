@@ -1,8 +1,8 @@
 window.addEventListener("DOMContentLoaded", function () {
   const Empleado = document.querySelector("#Empleado");
 
-  leerUser();
-  // grabarUser();
+  // leerUser();
+  grabarUser();
 });
 
 function generarUUID() {
